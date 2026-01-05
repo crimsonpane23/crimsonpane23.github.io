@@ -13,8 +13,7 @@ I am looking forward to strengthen my research background through projects and c
 ---
 
 ## Connect With Me
-
-- 💻 **GitHub**: https://github.com/crimsonpane23  
+ 
 - 🔗 **LinkedIn**: https://www.linkedin.com/in/aryan-shrivastava-nsp/  
 - 📧 **Email**: aryan.shrivastava@niser.ac.in  
 - 📄 **CV**: [View CV](Aryan_Shrivastava_CV.pdf)
