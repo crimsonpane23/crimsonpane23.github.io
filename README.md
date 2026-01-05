@@ -1,4 +1,4 @@
-# Aryan Shrivastava 👋
+# Hi, I'm Aryan Shrivastava 👋
 
 🎓 Integrated MSc Student at NISER | 3rd Year | Department of Physics
 
@@ -17,7 +17,7 @@ I am looking forward to strengthen my research background through projects and c
 - 💻 **GitHub**: https://github.com/crimsonpane23  
 - 🔗 **LinkedIn**: https://www.linkedin.com/in/aryan-shrivastava-nsp/  
 - 📧 **Email**: aryan.shrivastava@niser.ac.in  
-- 📄 **CV**: [Download CV](Aryan_Shrivastava_CV.pdf)
+- 📄 **CV**: [View CV](Aryan_Shrivastava_CV.pdf)
 
 ---
 
