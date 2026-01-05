@@ -1,16 +1,24 @@
-## Hi there 👋
+# Aryan Shrivastava 👋
 
-<!--
-**crimsonpane23/crimsonpane23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Integrated MSc Student at NISER | 3rd Year | Department of Physics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+  
+My academic interests lie at the intersection of Physics and Machine Learning 
+
+I am looking forward to strengthen my research background through projects and collaborations.
+
+---
+
+## Connect With Me
+
+- 💻 **GitHub**: https://github.com/crimsonpane23  
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/aryan-shrivastava-nsp/  
+- 📧 **Email**: aryan.shrivastava@niser.ac.in  
+- 📄 **CV**: [Download CV](Aryan_Shrivastava_CV.pdf)
+
+---
+
+⭐ Feel free to explore my repositories or reach out for collaboration.
