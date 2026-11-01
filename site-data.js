@@ -65,7 +65,7 @@ const SITE = {
   interests: {
     eyebrow: "Research",
     title: "Research interests",
-    intro: "These topics are my major research interests. The list is not exhaustive, and keeps changing.",
+    intro: "The fields I want to learn more about and work in, from detectors and data analysis to the theory behind the measurements.",
     items: [
       { icon: "⚛", title: "Experimental High Energy Physics",
         text: "",
