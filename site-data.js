@@ -183,9 +183,9 @@ const SITE = {
     intro: "A small selection. Click a photo to enlarge it.",
     ratio: "4/3",                            // default shape for all photos
     items: [
-      { src: "images/felicitation_2026.JPG", title: "Academic award felicitation, 2026",
+      { src: "images/felicitation_2026-2mb.JPG", title: "Academic award felicitation, 2026",
         caption: "I received the award for the highest SGPA in the Physics batch of 2023 for Semester 6 (AY 2025–26) at the NISER Foundation Day ceremony in September 2026. It was presented by Shri K N Vyas, former Secretary, Department of Atomic Energy (DAE) and Prof. Hirendra Nath Ghosh, Director, NISER." },
-      { src: "images/felicitation_2025.JPG", title: "Academic award felicitation, 2025",
+      { src: "images/felicitation_2025-2mb.JPG", title: "Academic award felicitation, 2025",
         caption: "I received the award for the highest SGPA in the Physics batch of 2023 for Semester 3 and 4 (AY 2024–25) at the NISER Foundation Day ceremony in September 2025. It was presented by Prof. Vinod Kumar Singh, President of National Academy of Sciences (NASI) and Prof. Hirendra Nath Ghosh, Director, NISER." },
       /*
         { src: "images/TIFR_Gobinda_sir.jpg", title: "Photo title three",
